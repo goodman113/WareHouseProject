@@ -11,8 +11,7 @@ import java.util.UUID;
 @NoArgsConstructor
 public class InputProduct {
     private final String id = UUID.randomUUID().toString();
-    private String productId ;
-    private Integer block ;
-    private Integer countPerBlock ;
-
+    private String productId;
+    private Integer block;
+    private Integer countPerBlock;
 }
