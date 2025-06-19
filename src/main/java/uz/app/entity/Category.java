@@ -11,5 +11,5 @@ import java.util.UUID;
 @NoArgsConstructor
 public class Category {
     private final String id = UUID.randomUUID().toString();
-    private String name ;
+    private String name;
 }
