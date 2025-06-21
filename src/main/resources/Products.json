@@ -1,0 +1,92 @@
+[
+  {
+    "id": "5bc36fb4-ab3b-40c4-a4a5-d6f5ff23c508",
+    "name": "Coca cola",
+    "price": 10000.0,
+    "count": 572,
+    "categoryId": "eb00d7ef-a430-4fd9-bdcd-214becb6f584",
+    "measure": "L",
+    "companyId": "f5b15e9c-0146-42b1-8d5c-591924009f71"
+  },
+  {
+    "id": "1ca6831d-cb8c-42f2-8971-2912dd735715",
+    "name": "Fanta",
+    "price": 10000.0,
+    "count": 1000,
+    "categoryId": "eb00d7ef-a430-4fd9-bdcd-214becb6f584",
+    "measure": "L",
+    "companyId": "f5b15e9c-0146-42b1-8d5c-591924009f71"
+  },
+  {
+    "id": "25bd0f83-ca76-4d99-b5ec-20634ca9b376",
+    "name": "Candy",
+    "price": 40000.0,
+    "count": 1000,
+    "categoryId": "0d305e9a-759f-4b1a-b241-2cc3f882931d",
+    "measure": "KG",
+    "companyId": "b8596382-0741-472a-a565-378a2d7a9bdc"
+  },
+  {
+    "id": "d1bea2ae-9aa8-4a14-a766-f1f088994a82",
+    "name": "Chocolate",
+    "price": 20000.0,
+    "count": 1000,
+    "categoryId": "0d305e9a-759f-4b1a-b241-2cc3f882931d",
+    "measure": "IMMEASURE",
+    "companyId": "c8e11205-ea1c-428d-b263-1acd1e217bbc"
+  },
+  {
+    "id": "0ec29577-4a2a-4dcc-b87f-a6a6f8e917ab",
+    "name": "Milk",
+    "price": 13000.0,
+    "count": 1000,
+    "categoryId": "4f201b71-e162-4618-8421-61a4aff0efe7",
+    "measure": "L",
+    "companyId": "3fbbf06b-1492-4f1f-93c2-81d8e059c077"
+  },
+  {
+    "id": "685421d0-b8c2-4f5e-bfc6-5504bfe8ec82",
+    "name": "Sour milk",
+    "price": 13000.0,
+    "count": 1000,
+    "categoryId": "4f201b71-e162-4618-8421-61a4aff0efe7",
+    "measure": "L",
+    "companyId": "3fbbf06b-1492-4f1f-93c2-81d8e059c077"
+  },
+  {
+    "id": "ac445fda-6b7c-4fbb-a90b-63d114ae83f4",
+    "name": "Smetana",
+    "price": 25000.0,
+    "count": 1000,
+    "categoryId": "4f201b71-e162-4618-8421-61a4aff0efe7",
+    "measure": "L",
+    "companyId": "3fbbf06b-1492-4f1f-93c2-81d8e059c077"
+  },
+  {
+    "id": "50776f32-3c53-41ef-af5b-4da4584eb4bd",
+    "name": "Fanta",
+    "price": 12000.0,
+    "count": 0,
+    "categoryId": "eb00d7ef-a430-4fd9-bdcd-214becb6f584",
+    "measure": "L",
+    "companyId": "f5b15e9c-0146-42b1-8d5c-591924009f71"
+  },
+  {
+    "id": "dfd8b229-23cb-4898-9679-736232d1e502",
+    "name": "Bounty",
+    "price": 7000.0,
+    "count": 0,
+    "categoryId": "8999c3f5-8438-40a4-8391-e80482f6a2c7",
+    "measure": "IMMEASURE",
+    "companyId": "c8e11205-ea1c-428d-b263-1acd1e217bbc"
+  },
+  {
+    "id": "52fad203-c656-4c12-ac82-58a2352ad5d8",
+    "name": "eshik",
+    "price": 5000.0,
+    "count": 1,
+    "categoryId": "76c0cf8d-f24a-419a-b429-cbdf74f0cbc9",
+    "measure": "IMMEASURE",
+    "companyId": "c8e11205-ea1c-428d-b263-1acd1e217bbc"
+  }
+]

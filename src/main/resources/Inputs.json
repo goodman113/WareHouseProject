@@ -1,0 +1,72 @@
+[
+  {
+    "id": "820ed7f3-4cc0-4688-bd89-f79969983799",
+    "date": "2025-06-21",
+    "overallPrice": 600000.0,
+    "companyId": "4ccb4648-3a70-4637-8193-ab02fd380f45",
+    "inputProducts": [
+      {
+        "id": "9ac483c1-15c2-4dfa-b631-c608ae9351af",
+        "productId": "27c374e4-d474-4bb2-b7f1-6094d6a0930c",
+        "block": 10,
+        "countPerBlock": 6
+      }
+    ]
+  },
+  {
+    "id": "927adfc0-3301-4eff-bbfb-86e6be2dde3b",
+    "date": "2025-06-21",
+    "overallPrice": 180000.0,
+    "companyId": "3fbbf06b-1492-4f1f-93c2-81d8e059c077",
+    "inputProducts": [
+      {
+        "id": "7e795bb6-0ce8-4f37-bb31-cdec5722ee06",
+        "productId": "52fad203-c656-4c12-ac82-58a2352ad5d8",
+        "block": 6,
+        "countPerBlock": 6
+      }
+    ]
+  },
+  {
+    "id": "03b44ca0-ad5c-4dc1-9813-ee7c76b8a09e",
+    "date": "2025-06-21",
+    "overallPrice": 180000.0,
+    "companyId": "3fbbf06b-1492-4f1f-93c2-81d8e059c077",
+    "inputProducts": [
+      {
+        "id": "01be7ea1-d833-4213-89fb-058639bdf86e",
+        "productId": "52fad203-c656-4c12-ac82-58a2352ad5d8",
+        "block": 6,
+        "countPerBlock": 6
+      }
+    ]
+  },
+  {
+    "id": "3fa45d4b-c651-47dc-b301-4f305d1efb7b",
+    "date": "2025-06-21",
+    "overallPrice": 180000.0,
+    "companyId": "3fbbf06b-1492-4f1f-93c2-81d8e059c077",
+    "inputProducts": [
+      {
+        "id": "8fa667fb-431e-48b4-857d-a76430be99d0",
+        "productId": "52fad203-c656-4c12-ac82-58a2352ad5d8",
+        "block": 6,
+        "countPerBlock": 6
+      }
+    ]
+  },
+  {
+    "id": "a539c0b9-4579-41b2-8e5b-774d027e9585",
+    "date": "2025-06-21",
+    "overallPrice": 720000.0,
+    "companyId": "f5b15e9c-0146-42b1-8d5c-591924009f71",
+    "inputProducts": [
+      {
+        "id": "93eea636-f9ff-4081-92c8-70012d29bfe4",
+        "productId": "5bc36fb4-ab3b-40c4-a4a5-d6f5ff23c508",
+        "block": 6,
+        "countPerBlock": 12
+      }
+    ]
+  }
+]
