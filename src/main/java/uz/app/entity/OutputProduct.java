@@ -10,8 +10,7 @@ import java.util.UUID;
 @AllArgsConstructor
 @NoArgsConstructor
 public class OutputProduct {
-    private final String id  = UUID.randomUUID().toString();
-    private String productId ;
-    private Integer count ;
-
+    private final String id = UUID.randomUUID().toString();
+    private String productId;
+    private Integer count;
 }

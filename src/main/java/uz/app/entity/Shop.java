@@ -11,6 +11,5 @@ import java.util.UUID;
 @NoArgsConstructor
 public class Shop {
     private final String id = UUID.randomUUID().toString();
-    private String name ;
-
+    private String name;
 }

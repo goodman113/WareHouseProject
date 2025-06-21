@@ -14,17 +14,18 @@ import static uz.app.db.DataSource.*;
 import static uz.app.utils.Utill.*;
 
 public class InputOutputService {
-    public void service(){
-        while (true){
+    public void service() {
+        while (true) {
             System.out.println("""
-                    0 exit
-                    1 input
-                    2 output
+                    1. Input
+                    2. Output
+                    0. Exit
                     """);
             switch (intScanner.nextInt()){
                 case 0->{return;}
                 case 1->{}
                 case 2->{outputService();}
+                default -> System.out.println("Select desired section.");
             }
         }
     }
@@ -40,10 +41,18 @@ public class InputOutputService {
             switch (strScanner.nextLine()){
                 case "0"->{return;}
                 case "1"->{sendProduct();}
-                case "2"->{}
-                case "3"->{}
+                case "2"->{showOutputs();}
+                case "3"->{showAvailableProducts();}
             }
         }
+    }
+
+    private void showAvailableProducts() {
+
+    }
+
+    private void showOutputs() {
+
     }
 
     private void sendProduct() {

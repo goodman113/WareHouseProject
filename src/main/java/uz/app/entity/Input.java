@@ -13,9 +13,8 @@ import java.util.UUID;
 @NoArgsConstructor
 public class Input {
     private final String id = UUID.randomUUID().toString();
-    private LocalDate date ;
-    private Double overallPrice ;
-    private String companyId ;
-    private List<InputProduct> inputProducts ;
-
+    private LocalDate date;
+    private Double overallPrice;
+    private String companyId;
+    private List<InputProduct> inputProducts;
 }

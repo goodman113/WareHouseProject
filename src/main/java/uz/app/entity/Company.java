@@ -12,9 +12,8 @@ import java.util.UUID;
 @NoArgsConstructor
 public class Company {
     private final String id = UUID.randomUUID().toString();
-    private String name ;
-    private List<Product> products ;
-
+    private String name;
+    private List<Product> products;
 
     public void setProducts(Product products) {
         this.products.add(products);
