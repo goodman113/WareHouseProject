@@ -1,0 +1,16 @@
+[
+  {
+    "id": "85d6ba69-b096-4848-a09b-4328c1114c5e",
+    "date": "2025-06-21",
+    "overallPrice": 360000.0,
+    "companyId": "668344ec-9d4f-4c86-bf37-999531356e89",
+    "inputProducts": [
+      {
+        "id": "0eb50319-2014-452b-b1ab-19067936aefc",
+        "productId": "5eadf9c1-20ca-4ec1-8fdc-90d629ec67db",
+        "block": 6,
+        "countPerBlock": 6
+      }
+    ]
+  }
+]

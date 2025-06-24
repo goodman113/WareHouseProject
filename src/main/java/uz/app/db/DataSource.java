@@ -67,7 +67,7 @@ public class DataSource {
 
         /// OverallPrice
         //(inputProducts.get(0).getBlock()*inputProducts.get(0).getCountPerBlock()*products.get(0).getPrice())+(inputProducts.get(1).getBlock()*inputProducts.get(1).getCountPerBlock()*products.get(1).getPrice())
-        inputs.add(new Input(LocalDate.now(), 5 * 6 * 10000.0 + 3 * 6 * 10000.0, companies.get(0).getId(), inputProducts));
+//        inputs.add(new Input(LocalDate.now(), 5 * 6 * 10000.0 + 3 * 6 * 10000.0, companies.get(0).getId(), inputProducts));
 
         outputs.add(new Output(LocalDate.now(), 40 * 10000.0 + 30 * 10000.0, shops.get(0).getId(), outputProducts));
     }
